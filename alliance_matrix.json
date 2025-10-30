@@ -1,0 +1,183 @@
+{
+    "roles": {
+      "DS_ML": {
+        "name": "Аналитик данных (Data scientist, ml engineer)",
+        "description": "Специалист, который работает с данными компании, анализирует их и разрабатывает решения на основе ИИ. Совместно с техническими аналитиками формирует технические метрики, которые зависят от бизнес-метрик...", 
+        "competencies": [
+          
+          { "id": "C01", "group": "Общие компетенции", "name": "Определения, история развития и главные тренды ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C02", "group": "Общие компетенции", "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "C03", "group": "Общие компетенции", "name": "Статистические методы и первичный анализ данных", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "C04", "group": "Общие компетенции", "name": "Промпт- инжиниринг", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C05", "group": "Общие компетенции", "name": "Инструменты CitizenDS", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C06", "group": "Общие компетенции", "name": "Оценка качества работы методов ИИ", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "C07", "group": "Общие компетенции", "name": "Языки программирования и библиотеки (Python, C++)", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "C08", "group": "Общие компетенции", "name": "Этика ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C09", "group": "Общие компетенции", "name": "Безопасность ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C10", "group": "Общие компетенции", "name": "Цифровые двойники", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          
+          { "id": "A01", "group": "Алгоритмы и методы ИИ", "name": "Методы машинного обучения", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "A02", "group": "Алгоритмы и методы ИИ", "name": "Методы оптимизации", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A03", "group": "Алгоритмы и методы ИИ", "name": "Информационный поиск", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование"] },
+          { "id": "A04", "group": "Алгоритмы и методы ИИ", "name": "Рекомендательные системы", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Девелопмент"] },
+          { "id": "A05", "group": "Алгоритмы и методы ИИ", "name": "Анализ изображений и видео", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A06", "group": "Алгоритмы и методы ИИ", "name": "Анализ естественного языка", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Образование", "Медицина"] },
+          { "id": "A07", "group": "Алгоритмы и методы ИИ", "name": "Основы глубокого обучения", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "A08", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации изображений, видео", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A09", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации естественного языка", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия"] },
+          { "id": "A10", "group": "Алгоритмы и методы ИИ", "name": "Обучение с подкреплением и глубокое обучение с подкреплением", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A11", "group": "Алгоритмы и методы ИИ", "name": "Гибридные модели и PIML", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A12", "group": "Алгоритмы и методы ИИ", "name": "Анализ геоданных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A13", "group": "Алгоритмы и методы ИИ", "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A14", "group": "Алгоритмы и методы ИИ", "name": "Работа с распределенной кластерной системой", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование"] },
+          { "id": "A15", "group": "Алгоритмы и методы ИИ", "name": "Машинное обучение на больших данных", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A16", "group": "Алгоритмы и методы ИИ", "name": "Потоковая обработка данных (data streaming, event processing)", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A17", "group": "Алгоритмы и методы ИИ", "name": "Графовые нейросети", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          
+          { "id": "D01", "group": "Работа с данными", "name": "SQL базы данных (GreenPlum, Postgres, Oracle)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D02", "group": "Работа с данными", "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D03", "group": "Работа с данными", "name": "Массово параллельная обработка и анализ данных", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "D04", "group": "Работа с данными", "name": "Hadoop, SPARK, Hive", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "D05", "group": "Работа с данными", "name": "Шины данных (kafka)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D06", "group": "Работа с данными", "name": "Качество и предобработка данных, подходы и инструменты", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "D07", "group": "Работа с данными", "name": "Графы знаний и онтологии", "required_level_code": null, "required_level_name": null, "relevant_industries": [] }
+        ]
+      },
+      "DE": {
+        "name": "Инженер данных (Data engineer)",
+         "description": "Специалист, который отвечает за сбор, анализ, очистку и подготовку данных для последующего использования...", 
+        "competencies": [
+          { "id": "C01", "group": "Общие компетенции", "name": "Определения, история развития и главные тренды ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C02", "group": "Общие компетенции", "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "C03", "group": "Общие компетенции", "name": "Статистические методы и первичный анализ данных", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C04", "group": "Общие компетенции", "name": "Промпт- инжиниринг", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C05", "group": "Общие компетенции", "name": "Инструменты CitizenDS", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C06", "group": "Общие компетенции", "name": "Оценка качества работы методов ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C07", "group": "Общие компетенции", "name": "Языки программирования и библиотеки (Python, C++)", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "C08", "group": "Общие компетенции", "name": "Этика ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C09", "group": "Общие компетенции", "name": "Безопасность ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C10", "group": "Общие компетенции", "name": "Цифровые двойники", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          
+          { "id": "A01", "group": "Алгоритмы и методы ИИ", "name": "Методы машинного обучения", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "A02", "group": "Алгоритмы и методы ИИ", "name": "Методы оптимизации", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A03", "group": "Алгоритмы и методы ИИ", "name": "Информационный поиск", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование"] },
+          { "id": "A04", "group": "Алгоритмы и методы ИИ", "name": "Рекомендательные системы", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Образование", "Девелопмент"] },
+          { "id": "A05", "group": "Алгоритмы и методы ИИ", "name": "Анализ изображений и видео", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A06", "group": "Алгоритмы и методы ИИ", "name": "Анализ естественного языка", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина"] },
+          { "id": "A07", "group": "Алгоритмы и методы ИИ", "name": "Основы глубокого обучения", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "A08", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации изображений, видео", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A09", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации естественного языка", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия"] },
+          { "id": "A10", "group": "Алгоритмы и методы ИИ", "name": "Обучение с подкреплением и глубокое обучение с подкреплением", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A11", "group": "Алгоритмы и методы ИИ", "name": "Гибридные модели и PIML", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A12", "group": "Алгоритмы и методы ИИ", "name": "Анализ геоданных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A13", "group": "Алгоритмы и методы ИИ", "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "A14", "group": "Алгоритмы и методы ИИ", "name": "Работа с распределенной кластерной системой", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Образование"] },
+          { "id": "A15", "group": "Алгоритмы и методы ИИ", "name": "Машинное обучение на больших данных", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A16", "group": "Алгоритмы и методы ИИ", "name": "Потоковая обработка данных (data streaming, event processing)", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A17", "group": "Алгоритмы и методы ИИ", "name": "Графовые нейросети", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          
+          { "id": "D01", "group": "Работа с данными", "name": "SQL базы данных (GreenPlum, Postgres, Oracle)", "required_level_code": 3, "required_level_name": "Экспертный", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D02", "group": "Работа с данными", "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)", "required_level_code": 3, "required_level_name": "Экспертный", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D03", "group": "Работа с данными", "name": "Массово параллельная обработка и анализ данных", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "D04", "group": "Работа с данными", "name": "Hadoop, SPARK, Hive", "required_level_code": 2, "required_level_name": "Продвинутый", "relevant_industries": [] },
+          { "id": "D05", "group": "Работа с данными", "name": "Шины данных (kafka)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D06", "group": "Работа с данными", "name": "Качество и предобработка данных, подходы и инструменты", "required_level_code": 3, "required_level_name": "Экспертный", "relevant_industries": [] },
+          { "id": "D07", "group": "Работа с данными", "name": "Графы знаний и онтологии", "required_level_code": null, "required_level_name": null, "relevant_industries": [] }
+        ]
+      },
+      "TA_AI": {
+        "name": "Технический аналитик в ии (Technical analyst in ai)",
+        "description": "Специалист, который обеспечивает эффективное взаимодействие между аналитиком данных и заказчиком...", 
+        "competencies": [
+           
+          { "id": "C01", "group": "Общие компетенции", "name": "Определения, история развития и главные тренды ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C02", "group": "Общие компетенции", "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C03", "group": "Общие компетенции", "name": "Статистические методы и первичный анализ данных", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C04", "group": "Общие компетенции", "name": "Промпт- инжиниринг", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C05", "group": "Общие компетенции", "name": "Инструменты CitizenDS", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C06", "group": "Общие компетенции", "name": "Оценка качества работы методов ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C07", "group": "Общие компетенции", "name": "Языки программирования и библиотеки (Python, C++)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C08", "group": "Общие компетенции", "name": "Этика ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C09", "group": "Общие компетенции", "name": "Безопасность ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C10", "group": "Общие компетенции", "name": "Цифровые двойники", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          
+          { "id": "A01", "group": "Алгоритмы и методы ИИ", "name": "Методы машинного обучения", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "A02", "group": "Алгоритмы и методы ИИ", "name": "Методы оптимизации", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A03", "group": "Алгоритмы и методы ИИ", "name": "Информационный поиск", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Образование"] },
+          { "id": "A04", "group": "Алгоритмы и методы ИИ", "name": "Рекомендательные системы", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Девелопмент"] },
+          { "id": "A05", "group": "Алгоритмы и методы ИИ", "name": "Анализ изображений и видео", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A06", "group": "Алгоритмы и методы ИИ", "name": "Анализ естественного языка", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина"] },
+          { "id": "A07", "group": "Алгоритмы и методы ИИ", "name": "Основы глубокого обучения", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "A08", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации изображений, видео", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A09", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации естественного языка", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия"] },
+          { "id": "A10", "group": "Алгоритмы и методы ИИ", "name": "Обучение с подкреплением и глубокое обучение с подкреплением", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A11", "group": "Алгоритмы и методы ИИ", "name": "Гибридные модели и PIML", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A12", "group": "Алгоритмы и методы ИИ", "name": "Анализ геоданных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A13", "group": "Алгоритмы и методы ИИ", "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A14", "group": "Алгоритмы и методы ИИ", "name": "Работа с распределенной кластерной системой", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Образование"] },
+          { "id": "A15", "group": "Алгоритмы и методы ИИ", "name": "Машинное обучение на больших данных", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A16", "group": "Алгоритмы и методы ИИ", "name": "Потоковая обработка данных (data streaming, event processing)", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A17", "group": "Алгоритмы и методы ИИ", "name": "Графовые нейросети", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+           
+          { "id": "D01", "group": "Работа с данными", "name": "SQL базы данных (GreenPlum, Postgres, Oracle)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D02", "group": "Работа с данными", "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D03", "group": "Работа с данными", "name": "Массово параллельная обработка и анализ данных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D04", "group": "Работа с данными", "name": "Hadoop, SPARK, Hive", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D05", "group": "Работа с данными", "name": "Шины данных (kafka)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D06", "group": "Работа с данными", "name": "Качество и предобработка данных, подходы и инструменты", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "D07", "group": "Работа с данными", "name": "Графы знаний и онтологии", "required_level_code": null, "required_level_name": null, "relevant_industries": [] }
+        ]
+      },
+      "MGR_AI": {
+        "name": "Менеджер в ии (Manager in ai)",
+         "description": "Специалист, который обеспечивает общее выполнение проекта, работу по бюджету, ресурсам, срокам...", 
+        "competencies": [
+           
+          { "id": "C01", "group": "Общие компетенции", "name": "Определения, история развития и главные тренды ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C02", "group": "Общие компетенции", "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C03", "group": "Общие компетенции", "name": "Статистические методы и первичный анализ данных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C04", "group": "Общие компетенции", "name": "Промпт- инжиниринг", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C05", "group": "Общие компетенции", "name": "Инструменты CitizenDS", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C06", "group": "Общие компетенции", "name": "Оценка качества работы методов ИИ", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "C07", "group": "Общие компетенции", "name": "Языки программирования и библиотеки (Python, C++)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C08", "group": "Общие компетенции", "name": "Этика ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C09", "group": "Общие компетенции", "name": "Безопасность ИИ", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "C10", "group": "Общие компетенции", "name": "Цифровые двойники", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          
+          { "id": "A01", "group": "Алгоритмы и методы ИИ", "name": "Методы машинного обучения", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "A02", "group": "Алгоритмы и методы ИИ", "name": "Методы оптимизации", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A03", "group": "Алгоритмы и методы ИИ", "name": "Информационный поиск", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Образование"] },
+          { "id": "A04", "group": "Алгоритмы и методы ИИ", "name": "Рекомендательные системы", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Девелопмент"] },
+          { "id": "A05", "group": "Алгоритмы и методы ИИ", "name": "Анализ изображений и видео", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A06", "group": "Алгоритмы и методы ИИ", "name": "Анализ естественного языка", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина"] },
+          { "id": "A07", "group": "Алгоритмы и методы ИИ", "name": "Основы глубокого обучения", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "A08", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации изображений, видео", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"] },
+          { "id": "A09", "group": "Алгоритмы и методы ИИ", "name": "Глубокое обучение для анализа и генерации естественного языка", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия"] },
+          { "id": "A10", "group": "Алгоритмы и методы ИИ", "name": "Обучение с подкреплением и глубокое обучение с подкреплением", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Нефтегазовая", "Металлургия"] },
+          { "id": "A11", "group": "Алгоритмы и методы ИИ", "name": "Гибридные модели и PIML", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A12", "group": "Алгоритмы и методы ИИ", "name": "Анализ геоданных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A13", "group": "Алгоритмы и методы ИИ", "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "A14", "group": "Алгоритмы и методы ИИ", "name": "Работа с распределенной кластерной системой", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Образование"] },
+          { "id": "A15", "group": "Алгоритмы и методы ИИ", "name": "Машинное обучение на больших данных", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A16", "group": "Алгоритмы и методы ИИ", "name": "Потоковая обработка данных (data streaming, event processing)", "required_level_code": null, "required_level_name": null, "relevant_industries": ["Медицина", "Девелопмент"] },
+          { "id": "A17", "group": "Алгоритмы и методы ИИ", "name": "Графовые нейросети", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+           
+          { "id": "D01", "group": "Работа с данными", "name": "SQL базы данных (GreenPlum, Postgres, Oracle)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D02", "group": "Работа с данными", "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": ["Образование", "Медицина", "Девелопмент"] },
+          { "id": "D03", "group": "Работа с данными", "name": "Массово параллельная обработка и анализ данных", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D04", "group": "Работа с данными", "name": "Hadoop, SPARK, Hive", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D05", "group": "Работа с данными", "name": "Шины данных (kafka)", "required_level_code": null, "required_level_name": null, "relevant_industries": [] },
+          { "id": "D06", "group": "Работа с данными", "name": "Качество и предобработка данных, подходы и инструменты", "required_level_code": 1, "required_level_name": "Базовый", "relevant_industries": [] },
+          { "id": "D07", "group": "Работа с данными", "name": "Графы знаний и онтологии", "required_level_code": null, "required_level_name": null, "relevant_industries": [] }
+        ]
+      }
+    },
+    "level_mapping": {
+      "1": "Базовый",
+      "2": "Продвинутый",
+      "3": "Экспертный"
+    },
+    "industries": [
+      "Нефтегазовая", "Образование", "Сельское хозяйство", "Медицина", "Металлургия", "Девелопмент"
+    ]
+  }
