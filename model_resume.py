@@ -11,7 +11,7 @@ import re
 # Подготовка данных
 
 from torch.nn.utils.rnn import pad_sequence
-
+  
 def collate_fn(batch):
     # batch - список кортежей (x_tensor, y_tensor) разной длины
     xs, ys = zip(*batch)
