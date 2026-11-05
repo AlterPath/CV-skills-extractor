@@ -41,3 +41,7 @@ Python, sentence-transformers, scikit-learn, spaCy, natasha, PyTorch, UMAP, pand
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The first version was published on GitHub in October 2025. The 2026 experiments (April 2026) and the README were published in November 2026; the dates of these commits follow the dates of the original files.</sub>
