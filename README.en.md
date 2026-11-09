@@ -4,6 +4,8 @@
 
 A capstone project for Samsung Innovation Campus (Artificial Intelligence track) and the elite study groups, 2025. The system extracts skills from resume text and matches them against a competency matrix of IT roles to show how well a candidate fits a role.
 
+> **Version 2** (November 2026) is in the [`v2/`](v2/) folder: a package with a command line, competency levels from 1 to 3, comparison of a resume with every role of the matrix, a trained BiLSTM tagger with metrics, and tests. The first version is described below.
+
 ## How it works
 
 1. **Competency matrix** (`alliance_matrix.json`) holds roles, competencies and levels. A role's skills are clustered: `sentence-transformers` embeddings (`all-MiniLM-L6-v2`), then `MiniBatchKMeans`, visualized with UMAP.
@@ -44,4 +46,4 @@ Python, sentence-transformers, scikit-learn, spaCy, natasha, PyTorch, UMAP, pand
 
 ---
 
-<sub>The first version was published on GitHub in October 2025. The 2026 experiments (April 2026) and the README were published in November 2026; the dates of these commits follow the dates of the original files.</sub>
+<sub>The first version was published on GitHub in October 2025. The 2026 experiments (April 2026) and the README were published in November 2026; the dates of these commits follow the dates of the original files. Version 2 (`v2/`) was written in November 2026.</sub>

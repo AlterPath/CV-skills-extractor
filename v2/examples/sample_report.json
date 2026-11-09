@@ -1,0 +1,1680 @@
+{
+  "source": "sample_resume.txt",
+  "experience_years": 2.0,
+  "industry": "Нефтегазовая",
+  "roles": [
+    {
+      "code": "TA_AI",
+      "name": "Технический аналитик в ии (Technical analyst in ai)",
+      "score": 0.6,
+      "met": 9,
+      "below": 0,
+      "missing": 6,
+      "items": [
+        {
+          "id": "C01",
+          "name": "Определения, история развития и главные тренды ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C02",
+          "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Agile»",
+          "quotes": [
+            "Управление проектами: Agile, Jira."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C03",
+          "name": "Статистические методы и первичный анализ данных",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Анализ данных»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C04",
+          "name": "Промпт- инжиниринг",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C05",
+          "name": "Инструменты CitizenDS",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Tableau»",
+          "quotes": [
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C06",
+          "name": "Оценка качества работы методов ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C07",
+          "name": "Языки программирования и библиотеки (Python, C++)",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Python»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C08",
+          "name": "Этика ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C09",
+          "name": "Безопасность ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C10",
+          "name": "Цифровые двойники",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A01",
+          "name": "Методы машинного обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "дополнительно: «временных рядов», с признаком экспертизы",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Специализация: Большие данные и машинное обучение.",
+            "Публикации на Kaggle (ТОП-10% в конкурсе по предсказанию временных рядов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A02",
+          "name": "Методы оптимизации",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A03",
+          "name": "Информационный поиск",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A04",
+          "name": "Рекомендательные системы",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A05",
+          "name": "Анализ изображений и видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «компьютерное зрение»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A06",
+          "name": "Анализ естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «NLP»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Участие в проектах по NLP (классификация текстов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A07",
+          "name": "Основы глубокого обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «TensorFlow»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A08",
+          "name": "Глубокое обучение для анализа и генерации изображений, видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A09",
+          "name": "Глубокое обучение для анализа и генерации естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A10",
+          "name": "Обучение с подкреплением и глубокое обучение с подкреплением",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A11",
+          "name": "Гибридные модели и PIML",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A12",
+          "name": "Анализ геоданных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A13",
+          "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A14",
+          "name": "Работа с распределенной кластерной системой",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A15",
+          "name": "Машинное обучение на больших данных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "косвенно, похожая формулировка (0.59): «Специализация: Большие данные и машинное обучение.»",
+          "quotes": [
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A16",
+          "name": "Потоковая обработка данных (data streaming, event processing)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A17",
+          "name": "Графовые нейросети",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D01",
+          "name": "SQL базы данных (GreenPlum, Postgres, Oracle)",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «DWH»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D02",
+          "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D03",
+          "name": "Массово параллельная обработка и анализ данных",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 2,
+          "status": "не требуется",
+          "reason": "опыт работы: «ClickHouse»",
+          "quotes": [
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D04",
+          "name": "Hadoop, SPARK, Hive",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Apache Spark»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "«Специалист по большим данным» (Приказ Минтруда № 496н).",
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D05",
+          "name": "Шины данных (kafka)",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D06",
+          "name": "Качество и предобработка данных, подходы и инструменты",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Pandas»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D07",
+          "name": "Графы знаний и онтологии",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        }
+      ]
+    },
+    {
+      "code": "MGR_AI",
+      "name": "Менеджер в ии (Manager in ai)",
+      "score": 0.5384615384615384,
+      "met": 7,
+      "below": 0,
+      "missing": 6,
+      "items": [
+        {
+          "id": "C01",
+          "name": "Определения, история развития и главные тренды ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C02",
+          "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Agile»",
+          "quotes": [
+            "Управление проектами: Agile, Jira."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C03",
+          "name": "Статистические методы и первичный анализ данных",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Анализ данных»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C04",
+          "name": "Промпт- инжиниринг",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C05",
+          "name": "Инструменты CitizenDS",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Tableau»",
+          "quotes": [
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C06",
+          "name": "Оценка качества работы методов ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C07",
+          "name": "Языки программирования и библиотеки (Python, C++)",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Python»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C08",
+          "name": "Этика ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C09",
+          "name": "Безопасность ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C10",
+          "name": "Цифровые двойники",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A01",
+          "name": "Методы машинного обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "дополнительно: «временных рядов», с признаком экспертизы",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Специализация: Большие данные и машинное обучение.",
+            "Публикации на Kaggle (ТОП-10% в конкурсе по предсказанию временных рядов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A02",
+          "name": "Методы оптимизации",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A03",
+          "name": "Информационный поиск",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A04",
+          "name": "Рекомендательные системы",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A05",
+          "name": "Анализ изображений и видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «компьютерное зрение»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A06",
+          "name": "Анализ естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «NLP»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Участие в проектах по NLP (классификация текстов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A07",
+          "name": "Основы глубокого обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «TensorFlow»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A08",
+          "name": "Глубокое обучение для анализа и генерации изображений, видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A09",
+          "name": "Глубокое обучение для анализа и генерации естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A10",
+          "name": "Обучение с подкреплением и глубокое обучение с подкреплением",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A11",
+          "name": "Гибридные модели и PIML",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A12",
+          "name": "Анализ геоданных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A13",
+          "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A14",
+          "name": "Работа с распределенной кластерной системой",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A15",
+          "name": "Машинное обучение на больших данных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "косвенно, похожая формулировка (0.59): «Специализация: Большие данные и машинное обучение.»",
+          "quotes": [
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A16",
+          "name": "Потоковая обработка данных (data streaming, event processing)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A17",
+          "name": "Графовые нейросети",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D01",
+          "name": "SQL базы данных (GreenPlum, Postgres, Oracle)",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «DWH»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D02",
+          "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D03",
+          "name": "Массово параллельная обработка и анализ данных",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 2,
+          "status": "не требуется",
+          "reason": "опыт работы: «ClickHouse»",
+          "quotes": [
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D04",
+          "name": "Hadoop, SPARK, Hive",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Apache Spark»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "«Специалист по большим данным» (Приказ Минтруда № 496н).",
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D05",
+          "name": "Шины данных (kafka)",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D06",
+          "name": "Качество и предобработка данных, подходы и инструменты",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Pandas»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D07",
+          "name": "Графы знаний и онтологии",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        }
+      ]
+    },
+    {
+      "code": "DS_ML",
+      "name": "Аналитик данных (Data scientist, ml engineer)",
+      "score": 0.4117647058823529,
+      "met": 6,
+      "below": 6,
+      "missing": 10,
+      "items": [
+        {
+          "id": "C01",
+          "name": "Определения, история развития и главные тренды ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C02",
+          "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)",
+          "group": "Общие компетенции",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Agile»",
+          "quotes": [
+            "Управление проектами: Agile, Jira."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C03",
+          "name": "Статистические методы и первичный анализ данных",
+          "group": "Общие компетенции",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Анализ данных»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C04",
+          "name": "Промпт- инжиниринг",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C05",
+          "name": "Инструменты CitizenDS",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Tableau»",
+          "quotes": [
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C06",
+          "name": "Оценка качества работы методов ИИ",
+          "group": "Общие компетенции",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C07",
+          "name": "Языки программирования и библиотеки (Python, C++)",
+          "group": "Общие компетенции",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Python»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C08",
+          "name": "Этика ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C09",
+          "name": "Безопасность ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C10",
+          "name": "Цифровые двойники",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A01",
+          "name": "Методы машинного обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "дополнительно: «временных рядов», с признаком экспертизы",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Специализация: Большие данные и машинное обучение.",
+            "Публикации на Kaggle (ТОП-10% в конкурсе по предсказанию временных рядов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A02",
+          "name": "Методы оптимизации",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A03",
+          "name": "Информационный поиск",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A04",
+          "name": "Рекомендательные системы",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A05",
+          "name": "Анализ изображений и видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «компьютерное зрение»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A06",
+          "name": "Анализ естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «NLP»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Участие в проектах по NLP (классификация текстов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A07",
+          "name": "Основы глубокого обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «TensorFlow»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A08",
+          "name": "Глубокое обучение для анализа и генерации изображений, видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A09",
+          "name": "Глубокое обучение для анализа и генерации естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A10",
+          "name": "Обучение с подкреплением и глубокое обучение с подкреплением",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A11",
+          "name": "Гибридные модели и PIML",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A12",
+          "name": "Анализ геоданных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A13",
+          "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A14",
+          "name": "Работа с распределенной кластерной системой",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A15",
+          "name": "Машинное обучение на больших данных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "косвенно, похожая формулировка (0.59): «Специализация: Большие данные и машинное обучение.»",
+          "quotes": [
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A16",
+          "name": "Потоковая обработка данных (data streaming, event processing)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A17",
+          "name": "Графовые нейросети",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D01",
+          "name": "SQL базы данных (GreenPlum, Postgres, Oracle)",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «DWH»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D02",
+          "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D03",
+          "name": "Массово параллельная обработка и анализ данных",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «ClickHouse»",
+          "quotes": [
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D04",
+          "name": "Hadoop, SPARK, Hive",
+          "group": "Работа с данными",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Apache Spark»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "«Специалист по большим данным» (Приказ Минтруда № 496н).",
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D05",
+          "name": "Шины данных (kafka)",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D06",
+          "name": "Качество и предобработка данных, подходы и инструменты",
+          "group": "Работа с данными",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Pandas»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D07",
+          "name": "Графы знаний и онтологии",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Инженер данных (Data engineer)",
+      "score": 0.38461538461538464,
+      "met": 5,
+      "below": 7,
+      "missing": 10,
+      "items": [
+        {
+          "id": "C01",
+          "name": "Определения, история развития и главные тренды ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C02",
+          "name": "Процесс, стадии и методологии разработки решений на основе ИИ (Docker, Linux/Bash, Git)",
+          "group": "Общие компетенции",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Agile»",
+          "quotes": [
+            "Управление проектами: Agile, Jira."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C03",
+          "name": "Статистические методы и первичный анализ данных",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «Анализ данных»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C04",
+          "name": "Промпт- инжиниринг",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C05",
+          "name": "Инструменты CitizenDS",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 1,
+          "status": "не требуется",
+          "reason": "навыки: «Tableau»",
+          "quotes": [
+            "Визуализация: Matplotlib, Seaborn, Tableau."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C06",
+          "name": "Оценка качества работы методов ИИ",
+          "group": "Общие компетенции",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C07",
+          "name": "Языки программирования и библиотеки (Python, C++)",
+          "group": "Общие компетенции",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Python»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "C08",
+          "name": "Этика ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C09",
+          "name": "Безопасность ИИ",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "C10",
+          "name": "Цифровые двойники",
+          "group": "Общие компетенции",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A01",
+          "name": "Методы машинного обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "дополнительно: «временных рядов», с признаком экспертизы",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Специализация: Большие данные и машинное обучение.",
+            "Публикации на Kaggle (ТОП-10% в конкурсе по предсказанию временных рядов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A02",
+          "name": "Методы оптимизации",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A03",
+          "name": "Информационный поиск",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A04",
+          "name": "Рекомендательные системы",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A05",
+          "name": "Анализ изображений и видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 1,
+          "status": "подтверждено",
+          "reason": "навыки: «компьютерное зрение»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A06",
+          "name": "Анализ естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «NLP»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение.",
+            "Участие в проектах по NLP (классификация текстов)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A07",
+          "name": "Основы глубокого обучения",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «TensorFlow»",
+          "quotes": [
+            "Машинное обучение: Scikit-learn, TensorFlow, NLP, компьютерное зрение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A08",
+          "name": "Глубокое обучение для анализа и генерации изображений, видео",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A09",
+          "name": "Глубокое обучение для анализа и генерации естественного языка",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A10",
+          "name": "Обучение с подкреплением и глубокое обучение с подкреплением",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": true
+        },
+        {
+          "id": "A11",
+          "name": "Гибридные модели и PIML",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A12",
+          "name": "Анализ геоданных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A13",
+          "name": "Массово параллельные вычисления для ускорения машинного обучения (GPU)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 1,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A14",
+          "name": "Работа с распределенной кластерной системой",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A15",
+          "name": "Машинное обучение на больших данных",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "косвенно, похожая формулировка (0.59): «Специализация: Большие данные и машинное обучение.»",
+          "quotes": [
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "A16",
+          "name": "Потоковая обработка данных (data streaming, event processing)",
+          "group": "Алгоритмы и методы ИИ",
+          "required": 2,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "A17",
+          "name": "Графовые нейросети",
+          "group": "Алгоритмы и методы ИИ",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D01",
+          "name": "SQL базы данных (GreenPlum, Postgres, Oracle)",
+          "group": "Работа с данными",
+          "required": 3,
+          "level": 2,
+          "status": "ниже требуемого",
+          "reason": "опыт работы: «DWH»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D02",
+          "name": "NoSQL базы данных (Cassandra, MongoDB, ElasticSearch, Neo4J, Hbase)",
+          "group": "Работа с данными",
+          "required": 3,
+          "level": 0,
+          "status": "не найдено",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D03",
+          "name": "Массово параллельная обработка и анализ данных",
+          "group": "Работа с данными",
+          "required": 2,
+          "level": 2,
+          "status": "подтверждено",
+          "reason": "опыт работы: «ClickHouse»",
+          "quotes": [
+            "Администрирование DWH (PostgreSQL, ClickHouse)."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D04",
+          "name": "Hadoop, SPARK, Hive",
+          "group": "Работа с данными",
+          "required": 2,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Apache Spark»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark.",
+            "«Специалист по большим данным» (Приказ Минтруда № 496н).",
+            "Специализация: Большие данные и машинное обучение."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D05",
+          "name": "Шины данных (kafka)",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        },
+        {
+          "id": "D06",
+          "name": "Качество и предобработка данных, подходы и инструменты",
+          "group": "Работа с данными",
+          "required": 3,
+          "level": 1,
+          "status": "ниже требуемого",
+          "reason": "навыки: «Pandas»",
+          "quotes": [
+            "Анализ данных: Python (Pandas, NumPy, SciPy), SQL, Apache Spark."
+          ],
+          "industry_relevant": false
+        },
+        {
+          "id": "D07",
+          "name": "Графы знаний и онтологии",
+          "group": "Работа с данными",
+          "required": null,
+          "level": 0,
+          "status": "не требуется",
+          "reason": "не найдено в резюме",
+          "quotes": [],
+          "industry_relevant": false
+        }
+      ]
+    }
+  ],
+  "target_role": "DS_ML",
+  "extra_skills": [
+    "Data Science",
+    "прогнозирования спроса"
+  ]
+}

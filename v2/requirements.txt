@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+python-docx
+# BiLSTM-теггер; без него работают поиск компетенций, оценка уровней и сравнение с ролями
+torch
+# только для резюме в PDF
+pypdf
+pytest

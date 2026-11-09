@@ -1,0 +1,54 @@
+{
+  "setup": {
+    "seen_aliases": 268,
+    "unseen_aliases": 90,
+    "train_sentences": 4000,
+    "seed": 7
+  },
+  "synthetic_seen_skills": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "synthetic_unseen_skills": {
+    "precision": 0.9558974358974359,
+    "recall": 0.9578622816032888,
+    "f1": 0.9568788501026694
+  },
+  "sample_resume_dictionary": {
+    "precision": 1.0,
+    "recall": 0.92,
+    "f1": 0.9583333333333334,
+    "missed": [
+      "data science",
+      "визуализац"
+    ],
+    "extra": []
+  },
+  "sample_resume_tagger": {
+    "precision": 0.9166666666666666,
+    "recall": 0.88,
+    "f1": 0.8979591836734694,
+    "missed": [
+      "анализ данн",
+      "визуализац",
+      "временн ряд"
+    ],
+    "extra": [
+      "предсказан временн ряд",
+      "прогнозирован спрос"
+    ]
+  },
+  "sample_resume_union": {
+    "precision": 0.9230769230769231,
+    "recall": 0.96,
+    "f1": 0.9411764705882353,
+    "missed": [
+      "визуализац"
+    ],
+    "extra": [
+      "предсказан временн ряд",
+      "прогнозирован спрос"
+    ]
+  }
+}
